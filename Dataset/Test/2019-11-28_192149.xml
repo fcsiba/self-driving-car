@@ -1,0 +1,50 @@
+<annotation>
+  <folder>camera</folder>
+  <filename>2019-11-28_192149</filename>
+  <path>C:\Users\DANIYAL\Desktop\FYP\camera\2019-11-28_192149.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1933</xmin>
+      <ymin>90</ymin>
+      <xmax>2123</xmax>
+      <ymax>299</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Green traffic light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>93</ymin>
+      <xmax>51</xmax>
+      <ymax>301</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Red traffic light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2179</xmin>
+      <ymin>74</ymin>
+      <xmax>2296</xmax>
+      <ymax>356</ymax>
+    </bndbox>
+  </object>
+</annotation>

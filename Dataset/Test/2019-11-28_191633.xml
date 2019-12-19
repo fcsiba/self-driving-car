@@ -1,0 +1,26 @@
+<annotation>
+  <folder>camera</folder>
+  <filename>2019-11-28_191633</filename>
+  <path>C:\Users\DANIYAL\Desktop\FYP\camera\2019-11-28_191633.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Stop sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2521</xmin>
+      <ymin>201</ymin>
+      <xmax>2592</xmax>
+      <ymax>477</ymax>
+    </bndbox>
+  </object>
+</annotation>

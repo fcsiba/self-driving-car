@@ -1,0 +1,38 @@
+<annotation>
+  <folder>camera</folder>
+  <filename>2019-11-28_191721</filename>
+  <path>C:\Users\DANIYAL\Desktop\FYP\camera\2019-11-28_191721.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Green traffic light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>739</xmin>
+      <ymin>120</ymin>
+      <xmax>842</xmax>
+      <ymax>315</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Red traffic light</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1735</xmin>
+      <ymin>55</ymin>
+      <xmax>1855</xmax>
+      <ymax>342</ymax>
+    </bndbox>
+  </object>
+</annotation>
