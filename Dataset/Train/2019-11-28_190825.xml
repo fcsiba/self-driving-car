@@ -1,0 +1,26 @@
+<annotation>
+  <folder>camera</folder>
+  <filename>2019-11-28_190825</filename>
+  <path>C:\Users\DANIYAL\Desktop\FYP\camera\2019-11-28_190825.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1499</xmin>
+      <ymin>163</ymin>
+      <xmax>1622</xmax>
+      <ymax>323</ymax>
+    </bndbox>
+  </object>
+</annotation>

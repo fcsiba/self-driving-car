@@ -1,0 +1,50 @@
+<annotation>
+  <folder>camera</folder>
+  <filename>2019-11-28_190649</filename>
+  <path>C:\Users\DANIYAL\Desktop\FYP\camera\2019-11-28_190649.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2592</width>
+    <height>1944</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Speed limit 25</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>166</ymin>
+      <xmax>123</xmax>
+      <ymax>377</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Stop sign</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1694</xmin>
+      <ymin>189</ymin>
+      <xmax>1826</xmax>
+      <ymax>316</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Speed limit 40</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2379</xmin>
+      <ymin>161</ymin>
+      <xmax>2592</xmax>
+      <ymax>388</ymax>
+    </bndbox>
+  </object>
+</annotation>
